@@ -1,0 +1,55 @@
+- category: 开发工具
+  subcategories:
+    - name: 版本控制
+      bookmarks:
+        - name: GitHub
+          url: https://github.com
+          icon: https://github.com/favicon.ico
+          tags: [代码托管, 版本控制, 开源]
+          description: 全球最大的代码托管平台
+          
+        - name: GitLab
+          url: https://gitlab.com
+          icon: https://gitlab.com/favicon.ico
+          tags: [CI/CD, DevOps, 自托管]
+          description: 集成了CI/CD的代码托管平台
+
+    - name: 文档工具
+      bookmarks:
+        - name: Markdown指南
+          url: https://markdown-guide.com
+          icon: https://markdown-guide.com/favicon.ico
+          tags: [文档, 语法, 教程]
+          description: Markdown语法完整指南
+
+- category: 设计资源
+  subcategories:
+    - name: 图标库
+      bookmarks:
+        - name: Feather Icons
+          url: https://feathericons.com
+          icon: https://feathericons.com/favicon.ico
+          tags: [图标, SVG, 开源]
+          description: 简洁美观的开源图标集
+        
+        - name: Unsplash
+          url: https://unsplash.com
+          icon: https://unsplash.com/favicon.ico
+          tags: [图片, 摄影, 免费]
+          description: 高质量免费图片资源库
+
+- category: 学习平台
+  subcategories:
+    - name: 编程学习
+      bookmarks:
+        - name: MDN Web Docs
+          url: https://developer.mozilla.org
+          icon: https://developer.mozilla.org/favicon.ico
+          tags: [文档, Web开发, 教程]
+          description: 最权威的Web开发文档
+        
+        - name: Stack Overflow
+          url: https://stackoverflow.com
+          icon: https://stackoverflow.com/favicon.ico
+          tags: [问答, 编程, 社区]
+          description: 程序员问答社区
