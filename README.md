@@ -36,7 +36,7 @@ bookmarks/
 
 ```bash
 # 克隆项目
-git clone <repository-url>
+git clone https://github.com/id88/BookmarkGenerator
 cd bookmarks
 
 # 安装依赖
