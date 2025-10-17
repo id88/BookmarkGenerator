@@ -20,7 +20,7 @@
 ## 📁 项目结构
 
 ```
-bookmarks/
+BookmarkGenerator/
 ├── bookmarks.yaml          # 书签数据文件（YAML格式）
 ├── bookmarks.csv           # 书签数据文件（CSV格式）
 ├── generate_nav.py         # 导航网站生成器
@@ -37,7 +37,7 @@ bookmarks/
 ```bash
 # 克隆项目
 git clone https://github.com/id88/BookmarkGenerator
-cd bookmarks
+cd BookmarkGenerator
 
 # 安装依赖
 pip install -r requirements.txt
